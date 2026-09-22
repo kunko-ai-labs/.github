@@ -1,6 +1,8 @@
 # Kunko AI Labs
 
-Independent audits for AI systems. We build open-source harnesses that measure what AI benchmarks don't: calibration, honesty, and drift.
+**Kunko (勲功)** — distinguished merit, earned through deeds. In the old sense, a samurai's *kunkō* was never claimed: it was demonstrated and recorded. We hold AI systems to the same standard.
+
+We build open-source harnesses that measure what AI benchmarks don't: calibration, honesty, and drift. Merit, demonstrated — not marketed.
 
 ## Projects
 
